@@ -1,0 +1,72 @@
+.ericcenter{
+    text-align: center;
+    color: aliceblue;
+    background-color: rgb(253, 149, 2);
+    padding: 20px;
+    border: 20px;
+    border-radius: 20px;
+
+}
+.eric1{
+    text-align: center;
+    color: aliceblue;
+    background-color: rgb(83, 82, 80);
+    padding: 20px;
+    border: 20px;
+    border-radius: 20px;
+    margin:-20px auto;
+    width :90%;
+    height:690px;
+    overflow:scroll;
+}
+
+.eric2{
+    text-align: center;
+    color: aliceblue;
+}
+
+.ericpadding{
+    padding: 20px;
+}
+
+a.ericlink{
+    color: rgb(239, 40, 18);
+    background-color: rgb(218, 213, 206);
+    padding: 20px;
+    border-radius: 20px;
+}
+
+a.ericlink:hover{
+background-color: rgb(236, 182, 100);
+color: rgb(226, 150, 79);
+padding: 20px;
+border-radius: 20px;
+}
+
+.ericbig{
+    font-size:20px;
+    font-weight: 800;
+}
+
+.ericgo{
+    font-size: 400px;
+    text-align: center;
+}
+
+.center{
+    text-align: center;
+}
+
+section#about{
+    background-color: rgba(179, 176, 146, 0.964);
+    background-image:url("../assets/img/bg.jpg");
+    background-repeat:no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#sideNav{
+    background-color:rgb(169, 77, 7);
+}
+
